@@ -1,4 +1,4 @@
-Presentation for an undergraduate-level differential equations course. Jupyter notebook includes a discussion of exact solutions vs. numerical approximations, a derivation of Forward Euler, and an application.
+Presentation for an undergraduate-level differential equations course. Jupyter notebook includes a discussion of exact solutions vs. numerical approximations, a derivation of Forward Euler, and an application with Python code.
 
 Author: Luke Vaughan
 
